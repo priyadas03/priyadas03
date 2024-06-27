@@ -1,21 +1,12 @@
-## Hi there 👋
-
-## 🦋🦋 I'M PRIYA DAS 🦋🦋
+##                 Hi there 👋 🦋🦋 I'M PRIYA DAS 🦋🦋
 ## 🌻🌹 WELCOME TO MY GITHUB ACCOUNT 🌻🌹
+##  A PASSIONATE DATA SCIENCE ENTHUSIAST
 
 
+- 🔭 I’m currently working on C++,DSA,R,MS EXCEL,
+- 🌱 I’m currently learning DATA STRUCTURE AND ALGORITHM ,MACHINE LEARNING
+- 📫 How to reach me: https://www.linkedin.com/in/priya-das03/
 
-<!--
-**priyadas03/priyadas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
