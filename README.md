@@ -1,4 +1,5 @@
-##                 Hi there 👋 🦋🦋 I'M PRIYA DAS 🦋🦋
+##                                           Hi there 👋 
+## 🦋🦋 I'M PRIYA DAS 🦋🦋
 ## 🌻🌹 WELCOME TO MY GITHUB ACCOUNT 🌻🌹
 ##  A PASSIONATE DATA SCIENCE ENTHUSIAST
 
